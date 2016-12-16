@@ -1,2 +1,3 @@
-# Student---Opportunity
-Created a mini database that would match students with opportunities based upon their interests. This was created using PHP and MySQL. [WIP]
+# Nole Org Matchmaker
+
+This web application was created to match students with organizations on campus based on their interests. 
